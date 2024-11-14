@@ -18,5 +18,5 @@ Este é um jogo interativo de Jokenpô (Pedra, Papel e Tesoura) desenvolvido com
 2. Abra o arquivo `index.html` em seu navegador.
 3. Divirta-se jogando Jokenpô!
 
-##Link para a Aplicação hospedada no vercel.app
+## Link para a Aplicação hospedada no vercel.app
 https://devsouza-jokenpo.vercel.app/
