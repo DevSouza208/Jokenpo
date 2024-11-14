@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Jokenpô</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header>
+      <h1>Jokenpô</h1>
+    </header>
+    <span id="player">
+      <h3>Jogador</h3>
+      <h3 id="playerPNT">0</h3>
+    </span>
+    <span id="cpu">
+      <h3>CPU</h3>
+      <h3 id="cpuPNT">0</h3>
+    </span>
+    <main>
+      <input type="button" value="🪨" class="bt" onclick="escolha(0)" />
+      <input type="button" value="🧻" class="bt" onclick="escolha(1)" />
+      <input type="button" value="✂️" class="bt" onclick="escolha(2)" />
+    </main>
+    <footer>
+      <h4>@DevSouza</h4>
+    </footer>
+  </body>
+  <script src="script.js"></script>
+</html>
