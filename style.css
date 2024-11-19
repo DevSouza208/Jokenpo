@@ -17,6 +17,7 @@ header {
 
 main {
   text-align: center;
+  font-family: "Noto Color Emoji";
 }
 
 footer {
@@ -86,3 +87,5 @@ input {
   right: 15px;
   text-align: right;
 }
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Color+Emoji&display=swap');
